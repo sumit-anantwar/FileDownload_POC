@@ -23,7 +23,6 @@ import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
 
-
     EditText editTextUrl;
     Button buttonVolley;
     Button buttonHttpASync;
@@ -34,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
     ThreadFileDownloadTest threadFileDownloadTest;
     URL url;
     Handler handler;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
