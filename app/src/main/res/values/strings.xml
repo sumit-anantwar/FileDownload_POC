@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileDownloadTester</string>
+    <string name="action_settings">Settings</string>
+</resources>
