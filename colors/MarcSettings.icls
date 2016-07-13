@@ -3,9 +3,10 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="ffee6a" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="fdfff0" />
   </colors>
   <attributes>
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="TEXT">
       <value>
         <option name="BACKGROUND" value="fdfff4" />
